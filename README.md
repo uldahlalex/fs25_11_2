@@ -1,14 +1,12 @@
 #### Remote repo on Github: `https://github.com/uldahlalex/fs25_11_2`
 
-### Agenda, Wednesday, 12th of February
+### Agenda
 - 08:15: Introduction To Exercise 1
 - 08:30: Exercise 1
 - 09:15: Follow-up on Exercise 1 + Introduction to Exercise 2
 - 09:30 - 10:45: Exercise 2
 - 10:45 - 11:00 Wrapping up exercise 2
 - 11:00 -> Workshop
-
-___
 
 ## Exercise 1: Multi-API Backend with shared authentication
 
