@@ -3,8 +3,10 @@
 ### Agenda, Wednesday, 12th of February
 - 08:15: Introduction To Exercise 1
 - 08:30: Exercise 1
-- 09:30: Follow-up on Exercise 1 + Introduction to Exercise 2
-- 09:45 - 11:30: Exercise 2 workshop
+- 09:15: Follow-up on Exercise 1 + Introduction to Exercise 2
+- 09:30 - 10:45: Exercise 2
+- 10:45 - 11:00 Wrapping up exercise 2
+- 11:00 -> Workshop
 
 ___
 
