@@ -1,5 +1,7 @@
 #### Remote repo on Github: `https://github.com/uldahlalex/fs25_11_2`
 
+#### Slides: `https://docs.google.com/presentation/d/1_g3QGOAxs3ZtORgvmrJDWplIK1rL2o3AUd28XAKExig/edit?usp=sharing`
+
 ### Agenda
 - 08:15: Introduction To Exercise 1
 - 08:30: Exercise 1
@@ -29,3 +31,12 @@ Now each API should be capable of using the same IConnectionManager **from the A
 
 #### Success criteria:
 When sending an HTTP request you should be able to trigger a broadcast to clients connected using websockets.
+
+### Help
+If you just want to see how to make an IConnectionManager without any infrastructure or API references, I have made one here:
+
+`https://gist.github.com/uldahlalex/bc968f5f44b68d62d5b82df07bab823f`
+
+Here's an example of a concrete dictionary based connection manager implementing the above interface:
+
+`https://gist.github.com/uldahlalex/0222e2ab7249bd9ca13a7d40e711345f#file-gistfile1-txt`
